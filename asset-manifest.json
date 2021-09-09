@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teamhr/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/teamhr/static/js/main.72c27d41.chunk.js",
+    "main.js.map": "/teamhr/static/js/main.72c27d41.chunk.js.map",
+    "runtime-main.js": "/teamhr/static/js/runtime-main.c9d6d37c.js",
+    "runtime-main.js.map": "/teamhr/static/js/runtime-main.c9d6d37c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/teamhr/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.66d8c12a.chunk.js": "/teamhr/static/js/2.66d8c12a.chunk.js",
+    "static/js/2.66d8c12a.chunk.js.map": "/teamhr/static/js/2.66d8c12a.chunk.js.map",
+    "index.html": "/teamhr/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/teamhr/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/teamhr/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.66d8c12a.chunk.js.LICENSE.txt": "/teamhr/static/js/2.66d8c12a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d6d37c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.66d8c12a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.72c27d41.chunk.js"
+  ]
+}
